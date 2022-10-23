@@ -18,3 +18,5 @@ URL da página inicial:  http://localhost:3000/
 URL para criar um pet: http://localhost:3000/pets/create
 
 URL para visualizar relatório das solicitações de adoção: http://localhost:3000/pets/report
+
+Projeto desenvolvido por Ana Karoliny e Joseanny Santos para projeto final da disciplina de multimidia.
